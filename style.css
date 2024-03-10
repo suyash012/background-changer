@@ -1,0 +1,25 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+   
+    height: 70vh;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child{
+height: 40vh;
+width: 40vb;
+border: 0.1rem solid black;
+text-align: center;
+color: rgb(14, 19, 14);
+background-color: rgb(145, 108, 108);
+}
+button{
+    margin-top: 2.5rem;
+    height: 4rem;
+    width: 7rem;
+    cursor: pointer;
+}
